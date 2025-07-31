@@ -82,6 +82,8 @@ Designing AI solutions using Python, Machine Learning, and Computer Vision
 ## 📫 Want to Collaborate?
 If you're interested in collaborating on AI, web projects, or research, feel free to connect!
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href=#><img src="contributions.svg"></a>
 
 
 
