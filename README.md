@@ -61,12 +61,10 @@ Designing AI solutions using Python, Machine Learning, and Computer Vision
 
 
 ---
-
-## 📊 GitHub Stats:
-![](https://dev-learning-platform-jade.vercel.app/api?username=Bilal243569&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bilal243569&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal243569&theme=react&hide_border=false&layout=compact)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bilal243569&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bilal243569&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal243569&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
